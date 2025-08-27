@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/sitemap.xml

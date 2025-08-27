@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lauri en arte y comunicación",
+    "description": "",
+    "home_page_url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion",
+    "feed_url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/feed.json",
+    "user_comment": "",
+    "icon": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/website/IMG_1861.jpg",
+    "author": {
+        "name": "laura castañeda"
+    },
+    "items": [
+    ]
+}
