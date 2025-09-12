@@ -3,12 +3,33 @@
     <title>lauri en arte y comunicación</title>
     <link href="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/feed.xml" rel="self" />
     <link href="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion" />
-    <updated>2025-08-29T16:27:33-05:00</updated>
+    <updated>2025-09-12T18:28:17-05:00</updated>
     <author>
         <name>laura castañeda</name>
     </author>
     <id>https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion</id>
 
+    <entry>
+        <title>cómic</title>
+        <author>
+            <name>laura castañeda</name>
+        </author>
+        <link href="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/comic.html"/>
+        <id>https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/comic.html</id>
+
+        <updated>2025-09-12T18:28:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    hecho por: juan esteban cagua y laura castañeda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/1303d0af-78f0-43c3-9ab0-4954bcd93b47.JPG" alt="" width="1600" height="1600" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-xs.JPG 640w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-sm.JPG 768w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-md.JPG 1024w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-lg.JPG 1366w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-xl.JPG 1600w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-2xl.JPG 1920w"></figure>
+<p class="align-center"><em>hecho por: juan esteban cagua y laura castañeda</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>composición visual</title>
         <author>

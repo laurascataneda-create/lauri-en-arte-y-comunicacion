@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/comic.html",
+            "url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/comic.html",
+            "title": "cómic",
+            "summary": "hecho por: juan esteban cagua y laura castañeda",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/1303d0af-78f0-43c3-9ab0-4954bcd93b47.JPG\" alt=\"\" width=\"1600\" height=\"1600\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-xs.JPG 640w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-sm.JPG 768w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-md.JPG 1024w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-lg.JPG 1366w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-xl.JPG 1600w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/3/responsive/1303d0af-78f0-43c3-9ab0-4954bcd93b47-2xl.JPG 1920w\"></figure>\n<p class=\"align-center\"><em>hecho por: juan esteban cagua y laura castañeda</em></p>",
+            "author": {
+                "name": "laura castañeda"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-12T18:28:17-05:00",
+            "date_modified": "2025-09-12T18:28:17-05:00"
+        },
+        {
             "id": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-visual.html",
             "url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-visual.html",
             "title": "composición visual",
