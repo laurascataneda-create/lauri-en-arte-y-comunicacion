@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-video.html",
+            "url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-video.html",
+            "title": "composición video",
+            "summary": "mi composición utiliza el performance de marina abramovic como foco principal. con el, le di uso a distintos efectos y filtros para alterar el video y sus acciones. aquí puede encontrarse: https://drive.google.com/file/d/1FOh83vtmS_Z-kfPeWAuGlyxcijd7OHKe/view?usp=sharing",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m..png\" alt=\"\" width=\"345\" height=\"259\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/responsive/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m.-xs.png 640w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/responsive/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m.-sm.png 768w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/responsive/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m.-md.png 1024w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/responsive/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m.-lg.png 1366w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/responsive/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m.-xl.png 1600w ,https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/media/posts/6/responsive/Captura-de-pantalla-2025-11-04-a-las-7.05.50-p.m.-2xl.png 1920w\"></figure>\n<p>mi composición utiliza el performance de marina abramovic como foco principal. con el, le di uso a distintos efectos y filtros para alterar el video y sus acciones. </p>\n<p>aquí puede encontrarse: https://drive.google.com/file/d/1FOh83vtmS_Z-kfPeWAuGlyxcijd7OHKe/view?usp=sharing</p>",
+            "author": {
+                "name": "laura castañeda"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-04T19:09:11-05:00",
+            "date_modified": "2025-11-04T19:09:11-05:00"
+        },
+        {
             "id": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-sonora-2.html",
             "url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-sonora-2.html",
             "title": "composición sonora",
