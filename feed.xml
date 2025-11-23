@@ -3,12 +3,33 @@
     <title>lauri en arte y comunicación</title>
     <link href="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/feed.xml" rel="self" />
     <link href="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion" />
-    <updated>2025-11-10T14:16:20-05:00</updated>
+    <updated>2025-11-23T16:26:03-05:00</updated>
     <author>
         <name>laura castañeda</name>
     </author>
     <id>https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion</id>
 
+    <entry>
+        <title>reels</title>
+        <author>
+            <name>laura castañeda</name>
+        </author>
+        <link href="https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/reels.html"/>
+        <id>https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/reels.html</id>
+
+        <updated>2025-11-23T16:25:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    para la creación de mis reels decidí usar el tema de representación social del artista, con performances y parodias sobre el arte/artista contemporáneo. aquí pueden encontrarse: https://drive.google.com/drive/folders/1zxt8fvuNW2bj6ylMM9xNrHnVMDPOai3G?usp=sharing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">para la creación de mis reels decidí usar el tema de representación social del artista, con performances y parodias sobre el arte/artista contemporáneo.</p>
+<p class="align-center">aquí pueden encontrarse: https://drive.google.com/drive/folders/1zxt8fvuNW2bj6ylMM9xNrHnVMDPOai3G?usp=sharing</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>composición video</title>
         <author>

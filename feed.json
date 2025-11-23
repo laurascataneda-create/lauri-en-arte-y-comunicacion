@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/reels.html",
+            "url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/reels.html",
+            "title": "reels",
+            "summary": "para la creación de mis reels decidí usar el tema de representación social del artista, con performances y parodias sobre el arte/artista contemporáneo. aquí pueden encontrarse: https://drive.google.com/drive/folders/1zxt8fvuNW2bj6ylMM9xNrHnVMDPOai3G?usp=sharing",
+            "content_html": "<p class=\"align-center\">para la creación de mis reels decidí usar el tema de representación social del artista, con performances y parodias sobre el arte/artista contemporáneo.</p>\n<p class=\"align-center\">aquí pueden encontrarse: https://drive.google.com/drive/folders/1zxt8fvuNW2bj6ylMM9xNrHnVMDPOai3G?usp=sharing</p>",
+            "author": {
+                "name": "laura castañeda"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-23T16:25:49-05:00",
+            "date_modified": "2025-11-23T16:26:03-05:00"
+        },
+        {
             "id": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-video.html",
             "url": "https://laurascataneda-create.github.io/lauri-en-arte-y-comunicacion/composicion-video.html",
             "title": "composición video",
